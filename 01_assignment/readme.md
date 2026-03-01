@@ -308,17 +308,6 @@ This assignment successfully demonstrates the complete NLP pipeline from raw tex
 
 ---
 
-## 📝 Assignment Information
-
-- **Course:** Natural Language Processing (NLP)
-- **Semester:** 8th Semester
-- **Institution:** University of Swat (UOS)
-- **Assignment:** 01
-- **Status:** ✅ Complete
-- **Last Updated:** March 1, 2026
-
----
-
 ## 📂 Files Summary
 
 | File | Size | Purpose |
